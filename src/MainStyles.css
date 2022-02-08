@@ -1,0 +1,53 @@
+#MainCompStyle {
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: '12px';
+    padding: '5px';
+    
+}
+
+#AllUsersStyle {
+    text-align: left;
+    padding: 10px;
+    width: 340px;
+    height: 650px;
+    border: 2px solid black;
+    overflow: auto;
+    overflow-x: hidden;
+    border-radius: '12px'
+    
+    
+}
+
+#UserStyle {
+    padding: 5px;
+    width: 100px;
+    margin: 10px auto;
+    border: 2px solid black;
+    border-radius: '12px';
+}
+
+#AddNewUserStyle {
+    padding: 25px;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 50px;
+    left: 400px;
+    border-radius: '12px';
+    border: black 1px solid;
+    margin-top: 10px;
+}
+
+#TitleStyel {
+    font: 22px;
+    font-weight: bold;
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
